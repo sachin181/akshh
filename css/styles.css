@@ -1,0 +1,49 @@
+body {
+    background-color: #fff;
+    text-align: center;  
+}
+
+.button {
+    position: relative;
+    margin-top: 25%;
+    z-index: 1;
+}
+
+.button-grid {
+    width: 25%;
+}
+
+.img-1 {
+    /* position:absolute ; */
+    left: 0px;
+}
+
+.after-click {
+    background-image: url("D:/web development/aksh/images/hearts.jpg");
+
+}
+
+.button-vanish {
+    visibility: hidden;
+}
+
+.hidden-text {
+    visibility: hidden;
+    text-align: center;
+    font-family: "pacifico";
+    font-weight: bold;
+    color: black;
+    font-size: 3rem;
+    padding : 7% 15% ;
+}
+
+.juju {
+    font-size: 1rem;
+    font-family: "montserrat";
+    color: #fff;
+}
+
+.image {
+    padding: 10px ;
+    margin : 10px ;
+}
